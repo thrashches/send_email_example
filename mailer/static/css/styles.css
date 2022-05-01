@@ -1,0 +1,33 @@
+body {
+    min-height: 100%;
+}
+
+.mail-form {
+    margin-top: 50px;
+}
+
+
+main {
+    margin: 0;
+    min-height: 75vh;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    height: 56px;
+    width: 100%;
+}
+
+.btn-send {
+    background-color: darkgoldenrod;
+    color: white;
+}
+
+.object {
+    color: lightblue;
+}
+
+.method {
+    color: lemonchiffon;
+}
